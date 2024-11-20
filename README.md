@@ -1,2 +1,0 @@
-# Garage-management-system
-Salesforce
